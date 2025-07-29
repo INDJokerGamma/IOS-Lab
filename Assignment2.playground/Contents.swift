@@ -25,4 +25,16 @@ print("After /= 5:", b);
 
 //Q3
 print(" ")
+var x=5;
+var y=5;
+var z=5;
+print("Expression (X+Y * Z): ", x+y * z, " \n", "precedance: \n","1. y * z \n", "2. x + res ");
+print(" ");
+print("Expression ((X+Y) * Z): ", (x+y) * z, " \n", "precedance: \n","1. (x+y) \n", "2. res * z");
 
+
+//Q3
+var c : Int
+c = 20;
+var d : Double
+d = ;
